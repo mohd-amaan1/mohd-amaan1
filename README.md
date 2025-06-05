@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/name.svg"  alt="Mohd Amaan"></h1>
+<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Mohd Amaan"></h1>
 <h3 align="center">A passionate MERN Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-amaan1&label=Profile%20views&color=0e75b6&style=plastic" alt="mohd-amaan1" /> </p>
